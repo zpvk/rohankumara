@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohankumara&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 🌱 I’m currently learning
 
