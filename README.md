@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning ...
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](gif/4gfql2.gif)
 <!--
 **rohankumara/rohankumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
