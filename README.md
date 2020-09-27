@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br>
-[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohankumara)](https://github.com/anuraghazra/github-readme-stats)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohankumara)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning
 
