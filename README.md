@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning ...
 
-!(https://thecodinglove.com/when-my-code-successfully-passes-all-the-unit-tests-one-by-one)
+![Image of hula_loopoctodex](https://thecodinglove.com/when-my-code-successfully-passes-all-the-unit-tests-one-by-one)
 <!--
 **rohankumara/rohankumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
