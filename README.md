@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+<br>
+[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohankumara)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌱 I’m currently learning
 
 ![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
