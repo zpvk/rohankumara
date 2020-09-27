@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning ...
 
-![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.mp4)
+![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
 <!--
 **rohankumara/rohankumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
