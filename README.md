@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌱 I’m currently learning
 
 ![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
