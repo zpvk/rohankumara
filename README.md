@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Rohan👋
+
+![](https://komarev.com/ghpvc/?username=rohankumara)
 
 ### 🌱 I’m currently learning
 
