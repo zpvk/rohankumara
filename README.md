@@ -1,7 +1,10 @@
 ### Hi there I'm [Rohan 👋!](https://github.com/rohankumara) 
+
+since 2017
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
-Today || ![Today views : ](https://komarev.com/ghpvc/?username=rohankumara)
+Today 
+![Today views : ](https://komarev.com/ghpvc/?username=rohankumara)
 ### 🌱 I’m currently learning
 
 ![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
