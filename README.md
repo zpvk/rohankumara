@@ -1,4 +1,4 @@
-### Hi there [Rohan!](https://github.com/rohankumara) 
+### Hi there I'm [Rohan 👋!](https://github.com/rohankumara) 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 ### 🌱 I’m currently learning
