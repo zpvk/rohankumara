@@ -7,9 +7,30 @@
 ![Today views : ](https://komarev.com/ghpvc/?username=rohankumara)
 ### 🌱 I’m currently learning
 
-![Image of Yaktocat](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
+![Image of Yaktocat](https://media.giphy.com/media/rdma0nDFZMR32/source.gif)
 
 <br>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://dev.to" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30"
+        width="40" /></a>
+<a href="#" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30"
+        width="40" /></a>
+<a href="#" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=""
+        height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
+        alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30"
+        width="40" /></a>
+<a href="#" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30"
+        width="40" /></a>
+</p>
 
 <p align="left">
  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="android" width="40" height="40"/>
@@ -18,6 +39,12 @@
 
 <br>
 
+## Get in touch 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rohankherath)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-k-herath) 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumara&layout=compact"
+        alt="rohankumara" /></p>
 <!--
 **rohankumara/rohankumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
