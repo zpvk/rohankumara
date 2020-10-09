@@ -1,6 +1,10 @@
 ### Hi there I'm [Rohan 👋!](https://github.com/rohankumara) 
 ```python
 import rohan
+```
+<h1 align="center">Hi there 👋 I'm Rohan K. Herath</h1>
+
+```python
 
 rohan_bio = {
   "bio" : "I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.",
