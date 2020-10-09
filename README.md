@@ -1,18 +1,21 @@
-### Hi there I'm [Rohan 👋!](https://github.com/rohankumara) 
+
 ```python
 import rohan
+
+rohan.welcome()
 ```
 <h1 align="center">Hi there 👋 I'm Rohan K. Herath</h1>
 
 ```python
-
-rohan_bio = {
-  "bio" : "I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.",
-  "languages" : [Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java],
-  "frameworks" : [Apache Spark, Django, Flask],
-  "learning" : "Everything",
-  "IDE" : ["Visual Studio Code", "jupyter notebook", "pycharm"]
- }
+rohan.bio()
+```
+```bash
+rohan_bio
+  bio : I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.
+  languages : Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java
+  frameworks : Apache Spark, Django, Flask
+  learning : Everything
+  IDE : Visual Studio Code, jupyter notebook, pycharm
  ```
 ### Since 2017<br>
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
