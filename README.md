@@ -1,5 +1,15 @@
 ### Hi there I'm [Rohan 👋!](https://github.com/rohankumara) 
-
+```python
+const rohan = {
+  bio: "I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.",
+  pronouns: "he" | "him",
+  code: [Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java],
+  frameworks: [Apache Spark, Django, Flask],
+  learning: [Python],
+  tools: ["Visual Studio Code", "jupyter notebook", "pycharm"],
+  meowsBackToCat: true
+ }
+ ```
 ### Since 2017<br>
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
