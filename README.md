@@ -51,4 +51,4 @@ rohan_bio
  rohan.most_used_languages()
  ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumara&layout=compact" alt="rohankumara" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumara&layout=compact" alt="rohankumara" /></p>
