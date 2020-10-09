@@ -24,8 +24,11 @@ rohan_bio
  
 ![Today views : ](https://komarev.com/ghpvc/?username=rohankumara)
 
+ ```python
+ rohan.connect()
+ ```
 <br>
-<p align="left">
+<p align="center">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30"
