@@ -17,14 +17,12 @@ rohan_bio
   learning : Everything
   IDE : Visual Studio Code, jupyter notebook, pycharm
  ```
-### Since 2017<br>
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-### Today <br>
+ 
+ ```python
+ rohan.git_profile_views(today)
+ ```
+ 
 ![Today views : ](https://komarev.com/ghpvc/?username=rohankumara)
-### 🌱 I’m currently learning
-
-![Image of Yaktocat](https://media.giphy.com/media/rdma0nDFZMR32/source.gif)
 
 <br>
 <p align="left">
