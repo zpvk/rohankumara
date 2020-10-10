@@ -9,14 +9,14 @@ rohan.welcome()
 ```python
 rohan.bio()
 ```
-```bash
-rohan_bio
-  bio : I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.
-  languages : Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java
-  frameworks : Apache Spark, Django, Flask
-  learning : Everything
-  IDE : Visual Studio Code, jupyter notebook, pycharm
- ```
+<p align="center">
+<h3>rohan_bio</h3>
+  <h5>bio : I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.<h5>
+  <h5>languages : Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java</h5>
+  <h5>frameworks : Apache Spark, Django, Flask</h5>
+  <h5>learning : Everything</h5>
+  <h5>IDE : Visual Studio Code, jupyter notebook, pycharm</h5>
+ </p>
  
  ```python
  rohan.git_profile_views(today)
