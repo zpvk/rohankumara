@@ -61,6 +61,4 @@ rohan.bio()
  ```python
  rohan.most_used_languages()
  ```
-
- <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="django" width="100" height="40"/> 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumara&layout=compact" alt="rohankumara" /></p>
