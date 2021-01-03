@@ -41,6 +41,7 @@ rohan.bio()
 <a href="https://www.instagram.com/rohank.herath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<!--
  ```python
  rohan.learning()
  ```
@@ -55,8 +56,7 @@ rohan.bio()
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="az" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="lin" width="40" height="40"/> </p><p></p>
-
+ <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="lin" width="40" height="40"/> </p><p></p>// -->
 
  ```python
  rohan.most_used_languages()
