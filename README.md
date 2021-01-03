@@ -48,12 +48,12 @@ rohan.bio()
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="100" height="40"/>
  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
- <img src="https://commons.wikimedia.org/wiki/File:Matlab_Logo.png" alt="math" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="math" width="40" height="40"/>
  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="c++" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="100" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="100" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" width="100" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgr" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hd" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
