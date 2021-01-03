@@ -48,9 +48,9 @@ rohan.bio()
 <p align="center">
  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
- <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="flask" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" alt="aws" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/django-line.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="c++" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" alt="django" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
