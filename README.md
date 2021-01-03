@@ -46,7 +46,7 @@ rohan.bio()
  ```
 
 <p align="center">
- <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="60" height="70"/>
  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="c++" width="40" height="40"/> 
