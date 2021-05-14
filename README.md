@@ -13,11 +13,11 @@ rohan.bio()
  <details>
   <summary>about me</summary>
  <p align="center">
-<h3>summary</h3>
-  <h5>bio : I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.<h5>
-  <h5>languages : Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java</h5>
-  <h5>frameworks : Apache Spark, Django, Flask</h5>
-  <h5>learning : Everything</h5>
+<h3>Summary</h3>
+  <h5>Bio : I'm Python Developer from Sri Lanka. Also an Undergraduate at NSBM Green University.<h5>
+  <h5>Languages : Python, C, C++, Dart, JavaScript, C#, HTML, CSS, PHP, Java</h5>
+  <h5>Frameworks : Apache Spark, Django, Flask</h5>
+  <h5>Learning : Everything</h5>
   <h5>IDE : Visual Studio Code, jupyter notebook, pycharm</h5>
  </p>
 </details>
