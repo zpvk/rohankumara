@@ -4,7 +4,7 @@ import rohan
 
 rohan.welcome()
 ```
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm Rohan K Herath</h1>
+<h1 align="center">Hi there 🙌🏻 I'm Rohan K Herath</h1>
 
 ```python
 rohan.bio()
